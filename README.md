@@ -11,7 +11,7 @@ Features futuras:
 - Tela de login
 
 ## Como executar o projeto:
-
+* Descompacte o arquivo .zip com o projeto
 * Abra dois terminais
 * No primerio terminal acesse o diretório da pasta backend
   > Execute: node index.js
