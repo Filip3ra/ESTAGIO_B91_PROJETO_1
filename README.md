@@ -15,3 +15,9 @@ Nele contém a lista de usuários.
 
 * Acesse no navegador o diretório do frontend:
   > http://localhost:3000/
+Que tem a página de cadastro de usuário.
+
+## Validação de dados:
+
+* Ao testar a validação dos campos de e-mail e cpf/cnpj a aplicação vai gerar um erro, fazendo necessário executar novamente o backend:
+  > Execute: node index.js
