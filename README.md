@@ -1,6 +1,15 @@
 # ESTAGIO_B91_PROJETO_1
 Projeto 1 - Segunda etapa
 
+## Observações:
+Implementações:
+- CRUD com cadastro de ususário, é possível cadastrar, deletar, editar e buscar usuário pelo ID. (ID da pra ver em http://localhost:4000/users)
+- Validação dos campos CPF/CNPJ e E-mail, que são dados únicos
+- Aramzenamento no banco de dados MongoDB (Usei a versão clound, mais detalhes abaixo)
+
+Features futuras:
+- Tela de login
+
 ## Como executar o projeto:
 
 * Abra dois terminais
