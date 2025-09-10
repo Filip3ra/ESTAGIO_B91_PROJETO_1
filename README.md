@@ -21,3 +21,11 @@ Que tem a página de cadastro de usuário.
 
 * Ao testar a validação dos campos de e-mail e cpf/cnpj a aplicação vai gerar um erro, fazendo necessário executar novamente o backend:
   > Execute: node index.js
+
+## Banco de Dados:
+
+* Foi utilizado o MnogoDB cloud, onde o link para conexão é:
+> mongodb+srv://admin:admin123@cluster0.cts7i9a.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+Login: admin
+Senha: admin123
